@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bhargavkathivarapu.github.io/sitemap.xml
